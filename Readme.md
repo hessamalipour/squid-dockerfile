@@ -1,4 +1,4 @@
-# UTM Proxy Docker Image
+# Squid Proxy Docker Image
 
 This repository defines the Docker Image for running [Squid](http://www.squid-cache.org) as a forward proxy in AWS environments.
 
